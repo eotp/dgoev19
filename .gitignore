@@ -8,4 +8,4 @@ figures/*
 !figures/.gitkeep
 
 
-reports/my_file.txt
+data/my_file.txt
