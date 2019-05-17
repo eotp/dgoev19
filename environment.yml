@@ -13,5 +13,5 @@ dependencies:
 - nodejs
 - nbsphinx
 - scikit-survival
-pip:
-- jupyter_sphinx_theme
+- pip:
+  - jupyter_sphinx_theme
