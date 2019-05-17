@@ -1,6 +1,11 @@
-# Materials for a Python workshop series at Jahrestagung der Gesellschaft für orale Epidemiologie und Versorgungsforschung (DGoEV), 2019-05-21
+# Materials for a coding workshop at Jahrestagung der Gesellschaft für orale Epidemiologie und Versorgungsforschung (DGoEV)
 
-[![Binder](https://mybinder.org/badge.svg)]()
+## _Und nun: gute epidemiologische Datenpraxis – müssen wir alle demnächst coden können?_
+
+### 2019-05-21
+
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/eotp/dgoev19/master?urlpath=lab)
 
 Requirements
 * Bring you own laptop
@@ -20,7 +25,9 @@ into your console. You activate your new environment by typing
 
 `activate python-charite` (on WINDOWS). 
 
-Then you are ready to go (if you are stuck check out the [conda documentation site](https://conda.io/docs/user-guide/tasks/manage-environments.html#)). Alternatively, you may launch [binder](https://mybinder.org/) to get a reproducible executable environment immediately in your browser. Simply click the _launch binder_ icon in the upper left corner, or go [here]().
+Then you are ready to go (if you are stuck check out the [conda documentation site](https://conda.io/docs/user-guide/tasks/manage-environments.html#)). 
+
+> Alternatively, you may launch [binder](https://mybinder.org/) to get a reproducible executable environment immediately in your browser. Simply click the _launch binder_ icon in the upper left corner, or go [here](https://mybinder.org/v2/gh/eotp/dgoev19/master?urlpath=lab).
 
 
 ***
