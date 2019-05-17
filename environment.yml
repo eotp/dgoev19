@@ -1,0 +1,17 @@
+name: dgoev19
+channels:
+- conda-forge
+- sebp
+- defaults
+dependencies:
+- python=3.6
+- jupyterlab
+- pandas
+- matplotlib
+- seaborn
+- holoviews
+- nodejs
+- nbsphinx
+- scikit-survival
+pip:
+- jupyter_sphinx_theme

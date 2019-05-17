@@ -1,0 +1,11 @@
+.ipynb_checkpoints
+.DS_Store
+
+reports/*
+!reports/.gitkeep
+
+figures/*
+!figures/.gitkeep
+
+
+reports/my_file.txt
