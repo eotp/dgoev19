@@ -21,9 +21,9 @@ In order to re-run the workshop materials we encourage you to use the [conda](ht
 
 into your console. You activate your new environment by typing 
 
-`source activate python-charite` (on LINUX and Mac) or
+`source activate dgoev19` (on LINUX and Mac) or
 
-`activate python-charite` (on WINDOWS). 
+`activate dgoev19` (on WINDOWS). 
 
 Then you are ready to go (if you are stuck check out the [conda documentation site](https://conda.io/docs/user-guide/tasks/manage-environments.html#)). 
 
